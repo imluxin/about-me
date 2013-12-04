@@ -1,0 +1,102 @@
+body {
+  	background-color: #180153;
+  	padding: 50px 20px;	
+	font-family: Microsoft YaHei, serif;	
+	color: #FFF;	
+}
+
+#head{
+	margin-bottom: 30px;
+}
+
+.head-t1{
+	font-size: 46px;
+}
+
+.head-t2{
+	font-size: 24px;
+	line-height: 55px;
+}
+
+
+/**
+ * content block
+ */
+
+
+.block{
+	padding-right: 0;
+	margin-bottom: 15px;
+}
+
+.block span{
+	display: block;
+}
+
+.block a{
+	color: #FFF;
+}
+
+.block a:hover{
+	color: #FFF;
+	text-decoration: none;
+}
+
+.block-c{
+	height: 156px;
+	padding: 7px 10px;
+}
+
+.block-c:hover{
+	border: 1px solid #260973;
+}
+
+.block-red{
+	background-color: #D9532D;
+}
+
+.block-red2{
+	background-color: #900000;
+}
+
+.block-blue1{
+	background-color: #094CB4;
+}
+
+.block-blue2{
+	background-color: #009BAD;
+}
+
+.block-green{
+	background-color: #008D00;
+}
+
+.block-gray{
+	background-color: #5C5C5C;
+}
+
+.block-black{
+	background-color: #323230;
+}
+
+.block-c img{
+	width: 80px;
+	margin: 15px auto;
+}
+
+.t-36{
+	font-size: 36px;
+}
+.t-18{
+	font-size: 18px;
+	margin: 10px 0;
+	font-weight: 500;
+	line-height: 1.1;
+}
+
+/**
+ * customize bootstrap
+ */
+.modal{
+	color: #000;
+}
