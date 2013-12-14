@@ -33,9 +33,8 @@ a
 	margin-top: 30px;
 }
 
-.left20{
-	padding-left: 20px;
-}
+.pl20{ padding-left: 20px; }
+.pl40{ padding-left: 40px; }
 
 #wrap
 {
@@ -49,7 +48,7 @@ a
 	color:#4d4d4d;
 	font-weight:normal;
 	font-style:italic;
-	padding: 0 20px;
+	padding: 0 33px;
 }
 #wrap h3.skillshed
 {
@@ -219,7 +218,6 @@ ul.menu li a:hover
 }
 #aboutlft
 {
-	min-height: 408px;
 }
 
 ul#abtlist
@@ -285,7 +283,6 @@ ul#abtlist li a
 }
 #skillslft
 {
-	min-height: 332px;
 }
 #skillslft p
 {
@@ -353,7 +350,6 @@ ul.skillslist li a
 }
 #edulft
 {
-	min-height: 566px;
 }
 #edurht
 {
@@ -396,7 +392,6 @@ ul.skillslist li a
 }
 #explft
 {
-	min-height: 984px;
 	
 }
 
@@ -514,7 +509,6 @@ ul.skillslist li a
 }
 #referencelft
 {
-	min-height: 348px;
 }
 #referencerht
 {
